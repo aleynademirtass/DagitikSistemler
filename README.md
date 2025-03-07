@@ -57,10 +57,3 @@ Spring Boot uygulaması, PostgreSQL ile çalışır ve Redis’i önbellekleme i
 Spring Boot uygulaması 2 replikaya sahip olduğu için yük dengeleme işlemi yapılır.
 Tüm bileşenler Docker Compose ile container içinde yönetilir.
 
-📜 Kullanılan Teknolojiler
-Teknoloji	            Açıklama
-Spring Boot	            Backend servisi
-Nginx	                    Reverse proxy ve yük dengeleme
-PostgreSQL	            Veritabanı yönetimi
-Redis	                    Önbellekleme (Caching)
-Docker Compose	            Tüm servisleri tek komutla çalıştırma
