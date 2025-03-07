@@ -37,7 +37,7 @@ Bu proje, **yük dengeleme**, **önbellekleme** ve **dağıtık yapı** özellik
 Projenin çalıştırılması için **Docker ve Docker Compose** yüklü olmalıdır.  
 
 1️⃣ *Docker ve Docker Compose’un yüklü olduğundan emin olun:*  
-   ```bash
+  
    docker -v
    docker-compose -v
 2️⃣ *Projeyi klonlayın:*
